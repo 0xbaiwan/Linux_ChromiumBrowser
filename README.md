@@ -24,7 +24,7 @@ sudo apt update -y && sudo apt upgrade -y
 
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 
-# 检查 Docker 版本
+
 docker --version
 ```
 
